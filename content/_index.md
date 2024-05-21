@@ -1,15 +1,15 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Paula Montagnana"
+subtitle: "Ciência de Dados com base científica para insights reais"
+description: "Sou Cientista de Dados com doutorado em Ciências pela USP. Desde a graduação em Ecologia, utilizo estatística para explorar dados complexos. Com expertise em diferentes abordagens, como análise espacial e modelos estatísticos, transformo dados em insights valiosos para impulsionar decisões."
 images:
-  - img/revoir.jpg
+  - img/paula_darwin.jpg
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More &rarr;"
+action_label: "Sobre &rarr;"
 action_type: text # text, button
 type: home
 ---
