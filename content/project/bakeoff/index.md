@@ -1,9 +1,9 @@
 ---
-title: "Bakeoff"
-subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
-date: 2019-07-01
-author: "Eric Anderson"
+title: "Omdena São Paulo Chapter - Plant Diseases Classification"
+subtitle: "An Omdena Challange"
+excerpt: "Classificação de doenças de plantas na agricultura brasileira usando visão computacional e aprendizado de máquina."
+date: 2024-05-22
+author: "Paula Montagnana"
 draft: false
 tags:
   - hugo-site
@@ -13,14 +13,10 @@ categories:
   - package
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases
 ---
 
 ![Formspree Logo](formspree-logo.png)

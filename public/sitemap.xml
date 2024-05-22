@@ -151,8 +151,8 @@
   </url><url>
     <loc>http://localhost:4321/license/</loc>
   </url><url>
-    <loc>http://localhost:4321/about/</loc>
-  </url><url>
     <loc>http://localhost:4321/about/main/</loc>
+  </url><url>
+    <loc>http://localhost:4321/about/</loc>
   </url>
 </urlset>

@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Paula Montagnana"
 role: "Cientista de Dados"
-avatar: "C:/Users/paula/OneDrive/GitHub/site_profissional/public/img/PaulaCM.jpg"
+avatar: "static/images/PaulaCM.jpg"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
