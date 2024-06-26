@@ -1,0 +1,42 @@
+---
+title: Euglossini PELD
+excerpt: Comunidades de abelhas Euglossini em áreas perturbadas, efeitos da estrutura da paisagem
+subtitle: Pesquisa de Pós-doutorado
+author: Paula Montagnana, Rafael SC Alves e Milton C Ribeiro
+date: "2023-01-15"
+layout: single 
+categories:
+- Projetos
+tags:
+- Abelhas das orquídeas
+- Ecologia de paisagens
+- Mata Atlântica
+---
+
+# **Euglossini** <img src="peld.png" align="right" width="30%" min-width="120px"/>
+
+### A pesquisa
+
+  A pesquisa propôs avaliar como estão estruturadas as comunidades de abelhas Euglossini em uma região de Mata Atlântica altamente fragmentada, com uma abordagem de Ecologia de Paisagens em duas escalas de estudo. Foram coletados 319 indivíduos pertencentes à 10 espécies. A cobertura florestal na escala de 5 km positivamente influencia a riqueza de espécies, abundância e diversidade de abelhas Euglossini, sendo que a heterogeneidade da paisagem na escala de 5 km negativamente afeta a abundância e diversidade. Os resultados corroboram estudos prévios que mostraram alta associação entre comunidades ricas e diversas de Euglossini e áreas de vegetação florestal. 
+  
+  Além disso, a pesquisa é o primeiro estudo onde paisagens com 5 km de raio são analisadas e essa foi a escala de efeito na qual a comunidade respondeu à estrutura da paisagem. De forma que futuros estudos com abelhas Euglossini em Ecologia de Paisagens e planos de manejo da paisagem com esses insetos polinizadores devem considerar paisagens com no mínimo 5 km, respeitando a distância mínima de voo estimada para elas.
+  
+### Análises estatísticas
+
+## Métricas de paisagens
+
+  As métricas da paisagem foram calculadas no software R Studio usando o pacote [landscapemetrics](https://cran.r-project.org/web/packages/landscapemetrics/landscapemetrics.pdf). Sendo elas: 
+  PLAND (% da paisagem coberta pela classe focal) foi usada para calcular a cobertura florestal. 
+  SHDI (Índice de Shaanon para Diversidade da Paisagem).
+  
+## Análise dos dados
+
+  Primeiramente, testei a linearidade entre as variáveis resposta e variáveis preditoras, utilizando a função ‘crPlots’ do pacote [car](https://cran.r-project.org/web/packages/car/index.html) no programa R, gerando um gráfico que baseia o diagnóstico nos resíduos do modelo linear.
+  Ajustei Modelos Aditivos Generalizados (do inglês, GAM) que permitem uma melhor interpretação dos resultados, principalmente quando as relações entre as variáveis não são lineares.
+  Os modelos foram selecionados com base no Critério de Informação de Akaike corrigido para amostras de tamanho pequeno. Os melhores modelos foram aqueles com os menores valores de AICc.
+  
+  
+### Financiadores
+
+  A pesquisa recebeu recursos do [Conselho Nacional de Desenvolvimento Científico e Tecnológico](https://www.gov.br/cnpq/pt-br), sendo parte do [Programa de Pesquisas Ecológicas de Longa Duração](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/programas/peld)
+---
