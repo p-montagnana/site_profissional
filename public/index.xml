@@ -6,7 +6,7 @@
     <description>Recent content on Paula Montagnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -77,6 +77,20 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title>Omdena São Paulo Chapter - Plant Diseases Classification</title>
+      <link>http://localhost:4321/project/2024-06-26-omdena/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/2024-06-26-omdena/</guid>
+      <description>O problema a ser resolvido Este esforço colaborativo visou ajudar na criação de modelos robustos de detecção de doenças, adaptados às necessidades específicas das culturas e práticas agrícolas brasileiras. Ao identificar doenças de forma precisa e eficiente, estes modelos poderiam capacitar os agricultores locais com informações oportunas para a tomada de decisões proativas, permitindo-lhes implementar tratamentos direcionados, reduzir as perdas de colheitas e otimizar a utilização de recursos.&#xA;Acima, estão os links do projeto no Github e a página do desafio no site da Omdena.</description>
+    </item>
+    <item>
+      <title>Euglossini PELD</title>
+      <link>http://localhost:4321/project/2024-06-26-euglossini-peld/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/2024-06-26-euglossini-peld/</guid>
+      <description>A pesquisa A pesquisa propôs avaliar como estão estruturadas as comunidades de abelhas Euglossini em uma região de Mata Atlântica altamente fragmentada, com uma abordagem de Ecologia de Paisagens em duas escalas de estudo. Foram coletados 319 indivíduos pertencentes à 10 espécies.&#xA;A cobertura florestal na escala de 5 km positivamente influenciou a riqueza de espécies, abundância e diversidade de abelhas Euglossini, sendo que a heterogeneidade da paisagem na escala de 5 km negativamente afetou a abundância e diversidade.</description>
     </item>
     <item>
       <title>Set up your social</title>
