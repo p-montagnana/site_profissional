@@ -1,16 +1,10 @@
 ---
-title: "Omdena São Paulo Chapter - Plant Diseases Classification"
-subtitle: "Um desafio Omdena"
+title: Omdena São Paulo Chapter - Plant Diseases Classification
+subtitle: Um desafio Omdena
 excerpt: "Classificação de doenças de plantas na agricultura brasileira usando visão computacional e aprendizado de máquina."
 date: 2024-05-22
-author: "Paula Montagnana"
+author: Paula Montagnana
 draft: false
-tags:
-  - hugo-site
-categories:
-  - Theme Features
-  - R
-  - package
 layout: single
 links:
 - icon: github
@@ -18,12 +12,17 @@ links:
   name: code
   url: https://github.com/OmdenaAI/sao-paulo-brazil-plant-diseases
 - icon: "/content/project/bakeoff/omdenasp.png"
-  icon_pack: "custom"
-  name: "Omdena"
+  icon_pack: fab
+  name: site
   url: https://www.omdena.com/projects/classification-of-plant-diseases-in-brazilian-agriculture-using-computer-vision-and-machine-learning
+categories:
+- Projetos
+tags:
+- Redes Neurais
+- Phyton
 ---
 
-![Omdena São Paulo Chapter](omdenasp-feature-hex.png)
+# **Omdena São Paulo Chapter** <img src="featured-hex.png" align="right" width="30%" min-width="120px"/>
 
 ---
 

@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Entre no meu universo de descobertas e insights através dos dados!  
+Entre no meu universo de descobertas através dos dados!  
 
 Reuni na minha webpage informações sobre minha carreira e projetos em Ciência e Ciência de Dados. 
