@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecologia De Paisagens on Paula Montagnana</title>
+    <link>http://localhost:4321/tags/ecologia-de-paisagens/</link>
+    <description>Recent content in Ecologia De Paisagens on Paula Montagnana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/ecologia-de-paisagens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euglossini PELD</title>
+      <link>http://localhost:4321/project/2024-06-26-euglossini-peld/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/2024-06-26-euglossini-peld/</guid>
+      <description>Euglossini A pesquisa A pesquisa propôs avaliar como estão estruturadas as comunidades de abelhas Euglossini em uma região de Mata Atlântica altamente fragmentada, com uma abordagem de Ecologia de Paisagens em duas escalas de estudo. Foram coletados 319 indivíduos pertencentes à 10 espécies. A cobertura florestal na escala de 5 km positivamente influencia a riqueza de espécies, abundância e diversidade de abelhas Euglossini, sendo que a heterogeneidade da paisagem na escala de 5 km negativamente afeta a abundância e diversidade.</description>
+    </item>
+  </channel>
+</rss>
