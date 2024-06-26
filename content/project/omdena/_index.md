@@ -24,7 +24,6 @@ tags:
 
 # **Omdena São Paulo Chapter** <img src="featured-hex.png" align="right" width="30%" min-width="120px"/>
 
----
 
 ### O problema a ser resolvido
 
