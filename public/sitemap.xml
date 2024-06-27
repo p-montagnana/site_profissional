@@ -2,49 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/collection/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/blog/spoonful-series/01-spoonful/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/spoonful-series/02-spoonful/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/blog/spoonful-series/03-spoonful/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/abelhas/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/categories/artigos/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/berinjela/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/2024-06-26-omdena/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/publications/2020-rocha2/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/habitat-fragmentation/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publications/publications/2021-montag/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/orchid-bees/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publications/publications/2020-montag/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publications/publications/2020-rocha1/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publications/publications/2012-patricio/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/tomate/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/urban-areas/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/vespas/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/2024-06-26-omdena/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/phyton/</loc>
@@ -62,16 +80,10 @@
     <loc>http://localhost:4321/tags/redes-neurais/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/tags/agricultura/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/dados/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/servi%C3%A7os-ecossist%C3%AAmicos/</loc>
@@ -94,6 +106,15 @@
   </url><url>
     <loc>http://localhost:4321/tags/polinizadores/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/book/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/paper/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publications/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/abelhas-das-orqu%C3%ADdeas/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
@@ -121,9 +142,6 @@
   </url><url>
     <loc>http://localhost:4321/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/collection/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>

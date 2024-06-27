@@ -7,6 +7,6 @@ blogdown::serve_site()
 # código para novo post, novo projeto...
 # já cria a pasta
 
-blogdown::new_post(title = "MBA Data Science",
+blogdown::new_post(title = "2021-montag",
                    ext = '.Rmarkdown',
-                   subdir = "project")
+                   subdir = "publications")

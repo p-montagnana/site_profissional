@@ -12,9 +12,6 @@
 <title>Using panelsets | Paula Montagnana</title>
 
 
-<meta property="twitter:site" content="@apreshill">
-<meta property="twitter:creator" content="@apreshill">
-
 
 
 
@@ -80,7 +77,7 @@ Question Which came first: the :chicken: or the :egg:?"><meta itemprop="datePubl
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About Blogophonic">Sobre</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="Sobre">Sobre</a>
       
         
         
@@ -90,22 +87,17 @@ Question Which came first: the :chicken: or the :egg:?"><meta itemprop="datePubl
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Project Portfolio">Projetos</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Projetos">Projetos</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Talks">Palestras</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/publications/" title="Publicações">Publicações</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/collection/" title="A collection">Publicações</a>
-      
-        
-        
-        
-      <a class="link f6 f5-l dib pv1 ph2 " href="/elements/" title="Element Page">CV</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="https://github.com/p-montagnana/cv/blob/main/Curriculo_Paula_Montagnana.pdf" title="">CV</a>
       
       
     </div>
@@ -143,14 +135,14 @@ Question Which came first: the :chicken: or the :egg:?"><meta itemprop="datePubl
 
 </div>
 <p>Was created by combining this theme&rsquo;s <code>panelset</code> and <code>panel</code> shortcodes:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span>{{&lt; panelset class=<span style="color:#d14">&#34;greetings&#34;</span> &gt;}}
-</span></span><span style="display:flex;"><span>{{&lt; panel name=<span style="color:#d14">&#34;Hello! :wave:&#34;</span> &gt;}}
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span>{{&lt; panelset class=<span style="color:#2aa198">&#34;greetings&#34;</span> &gt;}}
+</span></span><span style="display:flex;"><span>{{&lt; panel name=<span style="color:#2aa198">&#34;Hello! :wave:&#34;</span> &gt;}}
 </span></span><span style="display:flex;"><span>  hello
-</span></span><span style="display:flex;"><span>{{&lt; <span style="color:#000;font-weight:bold">/</span>panel &gt;}}
-</span></span><span style="display:flex;"><span>{{&lt; panel name=<span style="color:#d14">&#34;Goodbye :dash:&#34;</span> &gt;}}
+</span></span><span style="display:flex;"><span>{{&lt; <span style="color:#719e07">/</span>panel &gt;}}
+</span></span><span style="display:flex;"><span>{{&lt; panel name=<span style="color:#2aa198">&#34;Goodbye :dash:&#34;</span> &gt;}}
 </span></span><span style="display:flex;"><span>  goodbye
-</span></span><span style="display:flex;"><span>{{&lt; <span style="color:#000;font-weight:bold">/</span>panel &gt;}}
-</span></span><span style="display:flex;"><span>{{&lt; <span style="color:#000;font-weight:bold">/</span>panelset &gt;}}
+</span></span><span style="display:flex;"><span>{{&lt; <span style="color:#719e07">/</span>panel &gt;}}
+</span></span><span style="display:flex;"><span>{{&lt; <span style="color:#719e07">/</span>panelset &gt;}}
 </span></span></code></pre></div><p>You could also revert to HTML as well. For example, this panelset:</p>
 <div class="panelset">
   <div class="panel">
@@ -165,18 +157,18 @@ Question Which came first: the :chicken: or the :egg:?"><meta itemprop="datePubl
   </div>
 </div>
 <p>Was created with this HTML code:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#000080">div</span> <span style="color:#008080">class</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;panelset&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>  &lt;<span style="color:#000080">div</span> <span style="color:#008080">class</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;panel&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#000080">div</span> <span style="color:#008080">class</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;panel-name&#34;</span>&gt;Question&lt;/<span style="color:#000080">div</span>&gt;
-</span></span><span style="display:flex;"><span>    <span style="color:#998;font-style:italic">&lt;!-- Panel content --&gt;</span>
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#000080">p</span>&gt;Which came first: the :chicken: or the :egg:?&lt;/<span style="color:#000080">p</span>&gt;
-</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#000080">div</span>&gt;
-</span></span><span style="display:flex;"><span>  &lt;<span style="color:#000080">div</span> <span style="color:#008080">class</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;panel&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#000080">div</span> <span style="color:#008080">class</span><span style="color:#000;font-weight:bold">=</span><span style="color:#d14">&#34;panel-name&#34;</span>&gt;Answer :hatching_chick:&lt;/<span style="color:#000080">div</span>&gt;
-</span></span><span style="display:flex;"><span>    <span style="color:#998;font-style:italic">&lt;!-- Panel content --&gt;</span>
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#000080">p</span>&gt;Team :egg: FTW!&lt;/<span style="color:#000080">p</span>&gt;
-</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#000080">div</span>&gt;
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000080">div</span>&gt;
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#268bd2">div</span> class<span style="color:#719e07">=</span><span style="color:#2aa198">&#34;panelset&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#268bd2">div</span> class<span style="color:#719e07">=</span><span style="color:#2aa198">&#34;panel&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#268bd2">div</span> class<span style="color:#719e07">=</span><span style="color:#2aa198">&#34;panel-name&#34;</span>&gt;Question&lt;/<span style="color:#268bd2">div</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#586e75">&lt;!-- Panel content --&gt;</span>
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#268bd2">p</span>&gt;Which came first: the :chicken: or the :egg:?&lt;/<span style="color:#268bd2">p</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#268bd2">div</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#268bd2">div</span> class<span style="color:#719e07">=</span><span style="color:#2aa198">&#34;panel&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#268bd2">div</span> class<span style="color:#719e07">=</span><span style="color:#2aa198">&#34;panel-name&#34;</span>&gt;Answer :hatching_chick:&lt;/<span style="color:#268bd2">div</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#586e75">&lt;!-- Panel content --&gt;</span>
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#268bd2">p</span>&gt;Team :egg: FTW!&lt;/<span style="color:#268bd2">p</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#268bd2">div</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#268bd2">div</span>&gt;
 </span></span></code></pre></div>
         
         <details closed class="f6 fw7 input-reset">
@@ -224,7 +216,7 @@ Question Which came first: the :chicken: or the :egg:?"><meta itemprop="datePubl
 <div class="post-comments pa0 pa4-l mt4">
   
   <script src="https://utteranc.es/client.js"
-          repo="apreshill/apero"
+          repo="paulamontagnana/apero"
           issue-term="pathname"
           theme="boxy-light"
           label="comments :crystal_ball:"
@@ -326,11 +318,9 @@ Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xml
     
     <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
       
-      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      <a class="dib pv1 ph2 link" href="/license/" title="License">Licença</a>
       
-      <a class="dib pv1 ph2 link" href="/contact/" title="Contact form">Contact</a>
-      
-      <a class="dib pv1 ph2 link" href="/contributors/" title="Contributors">Contributors</a>
+      <a class="dib pv1 ph2 link" href="/contact/" title="Contato">Contato</a>
       
     </div>
   </nav>

@@ -6,42 +6,14 @@
     <description>Recent content on Paula Montagnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Netlify</title>
-      <link>http://localhost:4321/collection/day02/01-netlify/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.&#xA;Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
-    </item>
     <item>
       <title>A first post</title>
       <link>http://localhost:4321/blog/spoonful-series/01-spoonful/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/blog/spoonful-series/01-spoonful/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.&#xA;beginning middle end </description>
-    </item>
-    <item>
-      <title>A GitHub profile</title>
-      <link>http://localhost:4321/collection/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day01/01-github/</guid>
-      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile&#xA;Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile&#xA;Profile README This is new! Let&amp;rsquo;s do it:&#xA;https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
-    </item>
-    <item>
-      <title>Prework</title>
-      <link>http://localhost:4321/collection/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.&#xA;Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
-    </item>
-    <item>
-      <title>A postcard</title>
-      <link>http://localhost:4321/collection/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day01/02-postcards/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:&#xA;install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
     </item>
     <item>
       <title>A second post</title>
@@ -51,13 +23,6 @@
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\02-spoonful\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
-      <title>Using blogdown</title>
-      <link>http://localhost:4321/collection/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day02/02-blogdown/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:&#xA;install.packages(&amp;#34;blogdoown&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;blogdown&amp;#34;) [1] ‘1.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-blogdown.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
-    </item>
-    <item>
       <title>A third post</title>
       <link>http://localhost:4321/blog/spoonful-series/03-spoonful/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
@@ -65,18 +30,39 @@
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog\spoonful-series\03-spoonful\index.markdown Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
     </item>
     <item>
-      <title>A distill site</title>
-      <link>http://localhost:4321/collection/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day01/03-distill/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:&#xA;install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;distill&amp;#34;) # [1] ‘1.2’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) &amp;#x2728; Commit &amp;amp; Push!</description>
+      <title>Green patches among a grey patchwork: the importance of preserving natural habitats to harbour cavity-nesting bees and wasps (Hymenoptera) and their natural enemies in urban areas</title>
+      <link>http://localhost:4321/publications/publications/2020-rocha2/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2020-rocha2/</guid>
+      <description>Investigamos a influência da urbanização na comunidade de abelhas e vespas que nidificam em armadilhas, bem como em seus parasitas em uma área urbana</description>
     </item>
     <item>
-      <title>Warm woolen mittens</title>
-      <link>http://localhost:4321/collection/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+      <title>Landscape heterogeneity and forest cover shape cavity-nesting hymenopteran communities in a multi-scale perspective</title>
+      <link>http://localhost:4321/publications/publications/2021-montag/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2021-montag/</guid>
+      <description>Analisei como as comunidades de abelhas e vespas que nidificam em cavidades são afetadas pela estrutura da paisagem em diferentes escalas</description>
+    </item>
+    <item>
+      <title>Ruderal Plants Providing Bees Diversity on Rural Properties</title>
+      <link>http://localhost:4321/publications/publications/2020-montag/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2020-montag/</guid>
+      <description>Artigo científico investigou se plantas herbáceas atuam como sítios de forrageamento para abelhas silvestres, atraindo-as para a polinização de tomateiros</description>
+    </item>
+    <item>
+      <title>Species turnover and low stability in a community of euglossine bees (Hymenoptera: Apidae) sampled within 28 years in an urban forest fragment</title>
+      <link>http://localhost:4321/publications/publications/2020-rocha1/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2020-rocha1/</guid>
+      <description>Amostragem da fauna de abelhas Euglossini de um fragmento florestal em zona urbana e comparação com os dados de dois levantamentos realizados na mesma área 28 e 20 anos antes</description>
+    </item>
+    <item>
+      <title>The importance of bees for eggplant cultivations (Hymenoptera: Apidae, Andrenidae, Halictidae)</title>
+      <link>http://localhost:4321/publications/publications/2012-patricio/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2012-patricio/</guid>
+      <description>Artigo científico que avaliou o grau de dependência da polinização do cultivo de berinjela</description>
     </item>
     <item>
       <title>Omdena São Paulo Chapter - Plant Diseases Classification</title>

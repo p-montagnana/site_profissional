@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vespas on Paula Montagnana</title>
+    <link>http://localhost:4321/tags/vespas/</link>
+    <description>Recent content in Vespas on Paula Montagnana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/vespas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green patches among a grey patchwork: the importance of preserving natural habitats to harbour cavity-nesting bees and wasps (Hymenoptera) and their natural enemies in urban areas</title>
+      <link>http://localhost:4321/publications/publications/2020-rocha2/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2020-rocha2/</guid>
+      <description>Investigamos a influência da urbanização na comunidade de abelhas e vespas que nidificam em armadilhas, bem como em seus parasitas em uma área urbana</description>
+    </item>
+    <item>
+      <title>Landscape heterogeneity and forest cover shape cavity-nesting hymenopteran communities in a multi-scale perspective</title>
+      <link>http://localhost:4321/publications/publications/2021-montag/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2021-montag/</guid>
+      <description>Analisei como as comunidades de abelhas e vespas que nidificam em cavidades são afetadas pela estrutura da paisagem em diferentes escalas</description>
+    </item>
+    <item>
+      <title>Species turnover and low stability in a community of euglossine bees (Hymenoptera: Apidae) sampled within 28 years in an urban forest fragment</title>
+      <link>http://localhost:4321/publications/publications/2020-rocha1/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2020-rocha1/</guid>
+      <description>Amostragem da fauna de abelhas Euglossini de um fragmento florestal em zona urbana e comparação com os dados de dois levantamentos realizados na mesma área 28 e 20 anos antes</description>
+    </item>
+  </channel>
+</rss>

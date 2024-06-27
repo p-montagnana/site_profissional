@@ -12,9 +12,6 @@
 <title>An Rmarkdown post | Paula Montagnana</title>
 
 
-<meta property="twitter:site" content="@apreshill">
-<meta property="twitter:creator" content="@apreshill">
-
 
 
 
@@ -74,7 +71,7 @@
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About Blogophonic">Sobre</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="Sobre">Sobre</a>
       
         
         
@@ -84,22 +81,17 @@
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Project Portfolio">Projetos</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Projetos">Projetos</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Talks">Palestras</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/publications/" title="Publicações">Publicações</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/collection/" title="A collection">Publicações</a>
-      
-        
-        
-        
-      <a class="link f6 f5-l dib pv1 ph2 " href="/elements/" title="Element Page">CV</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="https://github.com/p-montagnana/cv/blob/main/Curriculo_Paula_Montagnana.pdf" title="">CV</a>
       
       
     </div>
@@ -129,14 +121,14 @@
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h2>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#900;font-weight:bold">with</span>(airquality, <span style="color:#900;font-weight:bold">boxplot</span>(Temp <span style="color:#000;font-weight:bold">~</span> Month))
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#268bd2">with</span>(airquality, <span style="color:#268bd2">boxplot</span>(Temp <span style="color:#719e07">~</span> Month))
 </span></span></code></pre></div><img src="/blog/rmarkdown/index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#900;font-weight:bold">with</span>(airquality, <span style="color:#900;font-weight:bold">plot</span>(Ozone <span style="color:#000;font-weight:bold">~</span> Temp))
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#268bd2">with</span>(airquality, <span style="color:#268bd2">plot</span>(Ozone <span style="color:#719e07">~</span> Temp))
 </span></span></code></pre></div><img src="/blog/rmarkdown/index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>mlev <span style="color:#000;font-weight:bold">&lt;-</span> <span style="color:#900;font-weight:bold">levels</span>(<span style="color:#900;font-weight:bold">with</span>(airquality, <span style="color:#900;font-weight:bold">as.factor</span>(Month)))
-</span></span><span style="display:flex;"><span><span style="color:#900;font-weight:bold">with</span>(airquality, <span style="color:#900;font-weight:bold">plot</span>(Ozone <span style="color:#000;font-weight:bold">~</span> Temp, 
-</span></span><span style="display:flex;"><span>                      pch <span style="color:#000;font-weight:bold">=</span> <span style="color:#900;font-weight:bold">as.numeric</span>(mlev), 
-</span></span><span style="display:flex;"><span>                      col <span style="color:#000;font-weight:bold">=</span> mlev))
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>mlev <span style="color:#719e07">&lt;-</span> <span style="color:#268bd2">levels</span>(<span style="color:#268bd2">with</span>(airquality, <span style="color:#268bd2">as.factor</span>(Month)))
+</span></span><span style="display:flex;"><span><span style="color:#268bd2">with</span>(airquality, <span style="color:#268bd2">plot</span>(Ozone <span style="color:#719e07">~</span> Temp, 
+</span></span><span style="display:flex;"><span>                      pch <span style="color:#719e07">=</span> <span style="color:#268bd2">as.numeric</span>(mlev), 
+</span></span><span style="display:flex;"><span>                      col <span style="color:#719e07">=</span> mlev))
 </span></span></code></pre></div><img src="/blog/rmarkdown/index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
         
@@ -180,7 +172,7 @@
 <div class="post-comments pa0 pa4-l mt4">
   
   <script src="https://utteranc.es/client.js"
-          repo="apreshill/apero"
+          repo="paulamontagnana/apero"
           issue-term="pathname"
           theme="boxy-light"
           label="comments :crystal_ball:"
@@ -282,11 +274,9 @@ Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xml
     
     <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
       
-      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      <a class="dib pv1 ph2 link" href="/license/" title="License">Licença</a>
       
-      <a class="dib pv1 ph2 link" href="/contact/" title="Contact form">Contact</a>
-      
-      <a class="dib pv1 ph2 link" href="/contributors/" title="Contributors">Contributors</a>
+      <a class="dib pv1 ph2 link" href="/contact/" title="Contato">Contato</a>
       
     </div>
   </nav>
