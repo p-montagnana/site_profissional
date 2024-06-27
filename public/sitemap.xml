@@ -41,6 +41,9 @@
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/project/2024-06-26-omdena/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/project/omdena/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,11 +59,26 @@
     <loc>http://localhost:4321/project/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/categories/projetos/2024-06-26-omdena/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/tags/redes-neurais/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/abelhas-das-orqu%C3%ADdeas/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/ecologia-de-paisagens/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/2024-06-26-euglossini-peld/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/mata-atl%C3%A2ntica/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>

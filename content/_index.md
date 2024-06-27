@@ -4,10 +4,10 @@ action_link: /about
 action_type: text
 title: "Paula Montagnana"
 subtitle: "Ciência de Dados com base científica para insights reais"
-description: "Sou Cientista de Dados com doutorado em Ciências pela USP. Desde a graduação em Ecologia, utilizo estatística para explorar dados complexos. Com expertise em diferentes abordagens, como análise espacial e modelos estatísticos, transformo dados em insights valiosos para impulsionar decisões."
+description: "Sou Cientista de Dados com doutorado em Ciências pela USP. Desde a graduação em Ecologia, utilizo estatística para explorar dados complexos. Com expertise em diferentes abordagens, como análise espacial e modelos estatísticos, transformo dados em insights para impulsionar decisões."
 image_left: false
 images:
-  - img/paula_darwin-circle.jpg
+  - img/darwin-circle.png
 show_action_link: true
 text_align_left: true
 show_social_links: true 

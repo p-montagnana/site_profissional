@@ -6,8 +6,15 @@
     <description>Recent content in Projetos on Paula Montagnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Innocent Drinks</title>
+      <link>http://localhost:4321/project/2024-06-27-innocent-drinks/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/2024-06-27-innocent-drinks/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Omdena São Paulo Chapter - Plant Diseases Classification</title>
       <link>http://localhost:4321/project/2024-06-26-omdena/</link>
