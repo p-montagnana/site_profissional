@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dados on Paula Montagnana</title>
-    <link>http://localhost:4321/tags/dados/</link>
-    <description>Recent content in Dados on Paula Montagnana</description>
+    <title>Polinização on Paula Montagnana</title>
+    <link>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</link>
+    <description>Recent content in Polinização on Paula Montagnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/dados/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TCC MBA Data Science</title>
       <link>http://localhost:4321/project/2024-06-27-mba-data-science/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/2024-06-27-mba-data-science/</guid>
       <description>MBA Data Science e Analytics Contextualização A soja (Glycine max (L.) Merr.) é a commodity do agronegócio brasileiro com maior valor de exportação e, apesar de suas flores serem autopolinizadas, há evidências de se beneficiarem da polinização animal, acompanhado de um aumento na produção do cultivo.&#xA;Os remanescentes de vegetação nativa, por serem locais primários de nidificação de muitas espécies de abelhas, atuam como áreas fontes de tais espécies para os ambientes adjacentes, como as áreas agrícolas.</description>
-    </item>
-    <item>
-      <title>Innocent Drinks</title>
-      <link>http://localhost:4321/project/2024-06-27-innocent-drinks/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/2024-06-27-innocent-drinks/</guid>
-      <description>Innocent Drinks O projeto O projeto foi fruto da parceria entre pesquisadores da Universidade Estadual Paulista (UNESP), Universidade Federal de São Carlos (UFSCar) e empresa britânica Innocent Drinks, sendo a última a financiadora do projeto através do Farmer Innovation Fund. Farmer Innovation Fund é um fundo destinado a apoiar os agricultores parceiros da empresa a migrarem para práticas agrícolas regenerativas que melhorem e protejam a saúde do solo, os recursos hídricos, a biodiversidade e o clima.</description>
     </item>
   </channel>
 </rss>

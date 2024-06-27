@@ -65,10 +65,25 @@
     <loc>http://localhost:4321/tags/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/cerrado/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/agricultura/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/dados/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/servi%C3%A7os-ecossist%C3%AAmicos/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/soja/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/2024-06-27-mba-data-science/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/cerrado/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/2024-06-27-innocent-drinks/</loc>

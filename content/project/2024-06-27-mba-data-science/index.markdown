@@ -20,7 +20,7 @@ tags:
 - Dados
 ---
 
-# **MBA Data Science e Analytics** <img src="mapa_são_paulo.png" align="right" width="30%" min-width="120px"/>
+# **MBA Data Science e Analytics** <img src="mapa_são_paulo.png" align="right" width="60%" min-width="200px"/>
 
 ## Contextualização 
 
