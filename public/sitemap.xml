@@ -44,9 +44,6 @@
     <loc>http://localhost:4321/project/2024-06-26-omdena/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/omdena/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,6 +65,21 @@
     <loc>http://localhost:4321/tags/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/tags/cerrado/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/dados/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/2024-06-27-innocent-drinks/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/mata-atl%C3%A2ntica/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/polinizadores/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/tags/abelhas-das-orqu%C3%ADdeas/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -75,9 +87,6 @@
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/2024-06-26-euglossini-peld/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/mata-atl%C3%A2ntica/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/</loc>

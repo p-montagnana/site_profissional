@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polinizadores on Paula Montagnana</title>
+    <link>http://localhost:4321/tags/polinizadores/</link>
+    <description>Recent content in Polinizadores on Paula Montagnana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/polinizadores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Innocent Drinks</title>
+      <link>http://localhost:4321/project/2024-06-27-innocent-drinks/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/2024-06-27-innocent-drinks/</guid>
+      <description>Innocent Drinks O projeto O projeto foi fruto da parceria entre pesquisadores da Universidade Estadual Paulista (UNESP), Universidade Federal de São Carlos (UFSCar) e empresa britânica Innocent Drinks, sendo a última a financiadora do projeto através do Farmer Innovation Fund. Farmer Innovation Fund é um fundo destinado a apoiar os agricultores parceiros da empresa a migrarem para práticas agrícolas regenerativas que melhorem e protejam a saúde do solo, os recursos hídricos, a biodiversidade e o clima.</description>
+    </item>
+  </channel>
+</rss>
