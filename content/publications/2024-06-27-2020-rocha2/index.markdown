@@ -14,7 +14,7 @@ publishDate: "2020"
 publication: "*Artigo*"
 publication_short: 'Artigo'
 summary: "Investigamos a influência da urbanização na comunidade de abelhas e vespas que nidificam em armadilhas, bem como em seus parasitas em uma área urbana"
-subtitle: "Investigamos a influência da urbanização na comunidade de abelhas e vespas que nidificam em armadilhas, bem como em seus parasitas em uma área urbana"
+subtitle: "Rocha-Filho, L. C., Montagnana, P. C., Boscolo, D., Garófalo, C. A. (2020), Biodiversity and Conservation"
 featured: yes
 image:
   caption: ''

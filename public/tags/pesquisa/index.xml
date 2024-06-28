@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pesquisa on Paula Montagnana</title>
+    <link>http://localhost:4321/tags/pesquisa/</link>
+    <description>Recent content in Pesquisa on Paula Montagnana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Um pouco mais sobre o projeto Euglossini PELD</title>
+      <link>http://localhost:4321/blog/2024-06-28-workshoppeld/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blog/2024-06-28-workshoppeld/</guid>
+      <description>Minha pesquisa de pós-doutorado esteve sob o guarda-chuva do PELD CCM</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midia on Paula Montagnana</title>
+    <link>http://localhost:4321/categories/midia/</link>
+    <description>Recent content in Midia on Paula Montagnana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/midia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ações humanas influenciam na existência de abelhas e vespas solitárias</title>
+      <link>http://localhost:4321/publications/publications/2019-radiousp2/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2019-radiousp2/</guid>
+      <description>Entrevista ao Podcast Ambiente é o Meio da Rádio USP</description>
+    </item>
+    <item>
+      <title>Carga Valiosa</title>
+      <link>http://localhost:4321/publications/publications/2016-fapesp/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2016-fapesp/</guid>
+      <description>Seção &amp;lsquo;Fotolab&amp;rsquo; da Revista Pesquisa Fapesp</description>
+    </item>
+    <item>
+      <title>Corredor ecológico próximo à zona urbana é favorável a abelhas e vespas</title>
+      <link>http://localhost:4321/publications/publications/2019-radiousp/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2019-radiousp/</guid>
+      <description>Em entrevista concedida aos Novos Cientistas, a ecóloga Paula Carolina Montagnana descreveu como realizou seu estudo no Corredor Ecológico Cantareira-Mantiqueira, próximo à cidade de São Paulo</description>
+    </item>
+    <item>
+      <title>Floresta e uso diversificado do solo preservam abelhas e vespas</title>
+      <link>http://localhost:4321/publications/publications/2019-jornalusp/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2019-jornalusp/</guid>
+      <description>Estudo mostra que Corredor Ecológico Cantareira-Mantiqueira apresenta condições favoráveis para vida de abelhas e vespas solitárias</description>
+    </item>
+    <item>
+      <title>Mamangavas (Gênero Bombus)</title>
+      <link>http://localhost:4321/publications/publications/2021-desabrace/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2021-desabrace/</guid>
+      <description>Entrevista ao Podcast Desabraçando Árvores, quadro Que bicho é esse?</description>
+    </item>
+    <item>
+      <title>Meio Ambiente: polinizadores em cena</title>
+      <link>http://localhost:4321/publications/publications/2020-diario/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2020-diario/</guid>
+      <description>Reportagem escrita por mim em comemoração ao Dia Internacional do Meio Ambiente no Diário do Rio Claro</description>
+    </item>
+  </channel>
+</rss>

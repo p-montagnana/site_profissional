@@ -14,7 +14,7 @@ publishDate: "2012"
 publication: "*Artigo*"
 publication_short: 'Artigo'
 summary: "Artigo científico que avaliou o grau de dependência da polinização do cultivo de berinjela"
-subtitle: "Artigo científico que avaliou o grau de dependência da polinização do cultivo de berinjela"
+subtitle: "Patrício, G. B., Grisolia, B. B. Desuo, I. C, Montagnana, P. C., Brocanelli, F. G., Gomig, E. G., Campos, M. J. O. (2012), Sociobiology"
 featured: yes
 image:
   caption: ''

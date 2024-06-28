@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagamento Por Serviços Ambientais on Paula Montagnana</title>
+    <link>http://localhost:4321/tags/pagamento-por-servi%C3%A7os-ambientais/</link>
+    <description>Recent content in Pagamento Por Serviços Ambientais on Paula Montagnana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/pagamento-por-servi%C3%A7os-ambientais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribuições científicas do Projeto Conexão Mata Atlântica</title>
+      <link>http://localhost:4321/publications/publications/2024-ribeiro/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/publications/2024-ribeiro/</guid>
+      <description>Capítulo de livro. Projeto Conexão Mata Atlântica em São Paulo</description>
+    </item>
+  </channel>
+</rss>

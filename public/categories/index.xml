@@ -6,13 +6,27 @@
     <description>Recent content in Categories on Paula Montagnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artigos</title>
       <link>http://localhost:4321/categories/artigos/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/artigos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Midia</title>
+      <link>http://localhost:4321/categories/midia/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/midia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:4321/categories/blog/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/blog/</guid>
       <description></description>
     </item>
     <item>
@@ -30,31 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Theme Features</title>
-      <link>http://localhost:4321/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evergreen</title>
-      <link>http://localhost:4321/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/evergreen/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Workshop</title>
       <link>http://localhost:4321/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/workshop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>http://localhost:4321/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/r/</guid>
       <description></description>
     </item>
     <item>

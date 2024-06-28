@@ -15,7 +15,7 @@ publishDate: "2020"
 publication: "*Artigo*"
 publication_short: 'Artigo'
 summary: "Amostragem da fauna de abelhas Euglossini de um fragmento florestal em zona urbana e comparação com os dados de dois levantamentos realizados na mesma área 28 e 20 anos antes"
-subtitle: "Amostragem da fauna de abelhas Euglossini de um fragmento florestal em zona urbana e comparação com os dados de dois levantamentos realizados na mesma área 28 e 20 anos antes"
+subtitle: " Rocha-Filho, L. C., Montagnana, P. C., Boscolo, D., Garófalo, C. A. (2020), Apidologie"
 featured: yes
 image:
   caption: ''

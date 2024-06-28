@@ -7,6 +7,6 @@ blogdown::serve_site()
 # código para novo post, novo projeto...
 # já cria a pasta
 
-blogdown::new_post(title = "2021-montag",
+blogdown::new_post(title = "pssc-6ciclo",
                    ext = '.Rmarkdown',
-                   subdir = "publications")
+                   subdir = "blog")

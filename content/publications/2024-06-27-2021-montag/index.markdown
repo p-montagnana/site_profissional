@@ -14,7 +14,7 @@ publishDate: "2021"
 publication: "*Artigo*"
 publication_short: 'Artigo'
 summary: "Analisei como as comunidades de abelhas e vespas que nidificam em cavidades são afetadas pela estrutura da paisagem em diferentes escalas"
-subtitle: "Analisei como as comunidades de abelhas e vespas que nidificam em cavidades são afetadas pela estrutura da paisagem em diferentes escalas"
+subtitle: "Montagnana, P. C., Alves, R. S. C., Garófalo, C. A., Ribeiro, M. C. (2021), Basic and Applied Ecology"
 featured: yes
 image:
   caption: ''

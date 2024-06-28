@@ -14,7 +14,7 @@ publishDate: "2020"
 publication: "*Artigo*"
 publication_short: 'Artigo'
 summary: "Artigo científico investigou se plantas herbáceas atuam como sítios de forrageamento para abelhas silvestres, atraindo-as para a polinização de tomateiros"
-subtitle: "Artigo científico investigou se plantas herbáceas atuam como sítios de forrageamento para abelhas silvestres, atraindo-as para a polinização de tomateiros"
+subtitle: "Montagnana, P. C. & Campos, M. J. O. (2020), Sociobiology"
 featured: yes
 image:
   caption: ''
