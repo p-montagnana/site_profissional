@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:4321/contact/</loc>
+    <lastmod>2024-06-29T15:17:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/form/</loc>
+    <lastmod>2024-06-29T15:17:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2024-06-29T15:17:41-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/tags/abelha-solit%C3%A1ria/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,9 +63,6 @@
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/pagamento-por-servi%C3%A7os-ambientais/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/p%C3%B3len/</loc>
@@ -208,12 +214,6 @@
   </url><url>
     <loc>http://localhost:4321/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/contact/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/form/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>

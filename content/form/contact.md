@@ -1,18 +1,16 @@
 ---
-title: Contact
-name: Contact Us Form
-description: "This template has a **contact-us** form built right in. All you need to do is add a valid recipient form-id to the front matter of this form page and you're ready to receive submissions."
-date: 2019-02-25T13:38:41-06:00
+date: "2024-06-29T15:17:41-06:00"
+description: Olá! Este formulário é para entrar em contato comigo.
 draft: false
-url: contact
-type: form
-layout: split-right # split-right or split-left
-submit_button_label: Send Message
-show_social_links: true # specify social accounts in site config
+layout: split-right
+name: Contact Us Form
 show_poweredby_formspree: true
-# From the Integration tab in Formspree where it says Your form's endpoint is:
-# https://formspree.io/f/abcdefgh The id will be "abcdefgh"" 
-formspree_form_id: "id-from-formspree"
+show_social_links: true
+submit_button_label: Enviar mensagem
+title: Contato
+type: form
+url: contact
+formspree_form_id: xdopwjev
 ---
 
 ** Contact page don't contain a body, just the front matter above.
