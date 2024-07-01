@@ -7,9 +7,9 @@ blogdown::serve_site()
 # código para novo post, novo projeto...
 # já cria a pasta
 
-blogdown::new_post(title = "index",
+blogdown::new_post(title = "site",
                    ext = '.Rmarkdown',
-                   subdir = "publication")
+                   subdir = "project")
 
 
 # salvar um arquivo .md em html

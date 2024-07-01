@@ -30,6 +30,13 @@
       <description>Innocent Drinks O projeto O projeto foi fruto da parceria entre pesquisadores da Universidade Estadual Paulista (UNESP), Universidade Federal de São Carlos (UFSCar) e empresa britânica Innocent Drinks, sendo a última a financiadora do projeto através do Farmer Innovation Fund. Farmer Innovation Fund é um fundo destinado a apoiar os agricultores parceiros da empresa a migrarem para práticas agrícolas regenerativas que melhorem e protejam a saúde do solo, os recursos hídricos, a biodiversidade e o clima.</description>
     </item>
     <item>
+      <title>Site profissional</title>
+      <link>http://localhost:4321/project/2024-07-01-site/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/2024-07-01-site/</guid>
+      <description>O site Esse site foi construído utilizando a linguagem R, mais especificamente com o pacote blogdown que usa documentos R Markdown para criar páginas da web. Hugo Apéro é o tema que estrutura o site, sendo um dos temas do gerador de site estático de código livre &amp;lsquo;Hugo&amp;rsquo;.&#xA;O repositório GitHub do meu site pode ser acessado aqui.&#xA;Conteúdos que me ajudaram na construção do código do site Live Conhecendo Hugo Apéro: fazendo blogs com blogdown e R Sem sombra de dúvidas essa live foi fundamental para eu começar a estruturar esse site.</description>
+    </item>
+    <item>
       <title>Euglossini PELD</title>
       <link>http://localhost:4321/project/2024-06-26-euglossini-peld/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
