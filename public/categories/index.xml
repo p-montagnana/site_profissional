@@ -9,17 +9,17 @@
     <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artigos</title>
-      <link>http://localhost:4321/categories/artigos/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/artigos/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Midia</title>
       <link>http://localhost:4321/categories/midia/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/midia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artigos</title>
+      <link>http://localhost:4321/categories/artigos/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/artigos/</guid>
       <description></description>
     </item>
     <item>
