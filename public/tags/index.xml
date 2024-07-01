@@ -6,118 +6,13 @@
     <description>Recent content in Tags on Paula Montagnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Abelha Solitária</title>
-      <link>http://localhost:4321/tags/abelha-solit%C3%A1ria/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/abelha-solit%C3%A1ria/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Abelhas</title>
-      <link>http://localhost:4321/tags/abelhas/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/abelhas/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Agricultura</title>
       <link>http://localhost:4321/tags/agricultura/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/tags/agricultura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Habitat Fragmentation</title>
-      <link>http://localhost:4321/tags/habitat-fragmentation/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/habitat-fragmentation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Livro</title>
-      <link>http://localhost:4321/tags/livro/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/livro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Midia</title>
-      <link>http://localhost:4321/tags/midia/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/midia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pagamento Por Serviços Ambientais</title>
-      <link>http://localhost:4321/tags/pagamento-por-servi%C3%A7os-ambientais/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/pagamento-por-servi%C3%A7os-ambientais/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pólen</title>
-      <link>http://localhost:4321/tags/p%C3%B3len/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/p%C3%B3len/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Revista</title>
-      <link>http://localhost:4321/tags/revista/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/revista/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Urban Ecology</title>
-      <link>http://localhost:4321/tags/urban-ecology/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/urban-ecology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vespas</title>
-      <link>http://localhost:4321/tags/vespas/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/vespas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Berinjela</title>
-      <link>http://localhost:4321/tags/berinjela/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/berinjela/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Orchid Bees</title>
-      <link>http://localhost:4321/tags/orchid-bees/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/orchid-bees/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Polinização</title>
-      <link>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tomate</title>
-      <link>http://localhost:4321/tags/tomate/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/tomate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Urban Areas</title>
-      <link>http://localhost:4321/tags/urban-areas/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/urban-areas/</guid>
       <description></description>
     </item>
     <item>
@@ -146,6 +41,13 @@
       <link>http://localhost:4321/tags/redes-neurais/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/tags/redes-neurais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polinização</title>
+      <link>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/poliniza%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>

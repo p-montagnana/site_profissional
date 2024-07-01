@@ -10,3 +10,8 @@ blogdown::serve_site()
 blogdown::new_post(title = "index",
                    ext = '.Rmarkdown',
                    subdir = "publication")
+
+
+# salvar um arquivo .md em html
+library(rmarkdown)
+rmarkdown::render("C:/Users/paula/OneDrive/GitHub/site_profissional/content/publication/index.md", output_format = "html_document")

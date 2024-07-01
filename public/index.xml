@@ -16,48 +16,6 @@
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     <item>
-      <title>Ações humanas influenciam na existência de abelhas e vespas solitárias</title>
-      <link>http://localhost:4321/publications/publications/2019-radiousp2/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/publications/2019-radiousp2/</guid>
-      <description>Entrevista ao Podcast Ambiente é o Meio da Rádio USP</description>
-    </item>
-    <item>
-      <title>Floresta e uso diversificado do solo preservam abelhas e vespas</title>
-      <link>http://localhost:4321/publications/publications/2019-jornalusp/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/publications/2019-jornalusp/</guid>
-      <description>Estudo mostra que Corredor Ecológico Cantareira-Mantiqueira apresenta condições favoráveis para vida de abelhas e vespas solitárias</description>
-    </item>
-    <item>
-      <title>Green patches among a grey patchwork: the importance of preserving natural habitats to harbour cavity-nesting bees and wasps (Hymenoptera) and their natural enemies in urban areas</title>
-      <link>http://localhost:4321/publications/publications/2020-rocha2/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/publications/2020-rocha2/</guid>
-      <description>Investigamos a influência da urbanização na comunidade de abelhas e vespas que nidificam em armadilhas, bem como em seus parasitas em uma área urbana</description>
-    </item>
-    <item>
-      <title>Landscape heterogeneity and forest cover shape cavity-nesting hymenopteran communities in a multi-scale perspective</title>
-      <link>http://localhost:4321/publications/publications/2021-montag/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/publications/2021-montag/</guid>
-      <description>Analisei como as comunidades de abelhas e vespas que nidificam em cavidades são afetadas pela estrutura da paisagem em diferentes escalas</description>
-    </item>
-    <item>
-      <title>Ruderal Plants Providing Bees Diversity on Rural Properties</title>
-      <link>http://localhost:4321/publications/publications/2020-montag/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/publications/2020-montag/</guid>
-      <description>Artigo científico investigou se plantas herbáceas atuam como sítios de forrageamento para abelhas silvestres, atraindo-as para a polinização de tomateiros</description>
-    </item>
-    <item>
-      <title>Species turnover and low stability in a community of euglossine bees (Hymenoptera: Apidae) sampled within 28 years in an urban forest fragment</title>
-      <link>http://localhost:4321/publications/publications/2020-rocha1/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/publications/2020-rocha1/</guid>
-      <description>Amostragem da fauna de abelhas Euglossini de um fragmento florestal em zona urbana e comparação com os dados de dois levantamentos realizados na mesma área 28 e 20 anos antes</description>
-    </item>
-    <item>
       <title>Evento de imersão do 6° ciclo do PSSC</title>
       <link>http://localhost:4321/blog/2024-06-28-pssc-6ciclo/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
@@ -79,18 +37,18 @@
       <description>MBA Data Science e Analytics Contextualização A soja (Glycine max (L.) Merr.) é a commodity do agronegócio brasileiro com maior valor de exportação e, apesar de suas flores serem autopolinizadas, há evidências de se beneficiarem da polinização animal, acompanhado de um aumento na produção do cultivo.&#xA;Os remanescentes de vegetação nativa, por serem locais primários de nidificação de muitas espécies de abelhas, atuam como áreas fontes de tais espécies para os ambientes adjacentes, como as áreas agrícolas.</description>
     </item>
     <item>
-      <title>Publicações</title>
-      <link>http://localhost:4321/publication/</link>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/</guid>
-      <description>Artigos Patrício, G. B., Grisolia, B. B. Desuo, I. C, Montagnana, P. C., Brocanelli, F. G., Gomig, E. G., Campos, M. J. O. (2012). The importance of bees for eggplant cultivations (Hymenoptera: Apidae, Andrenidae, Halictidae).Sociobiology, v. 59, p. 1037-1052.&#xA;Montagnana, P. C., Campos, M. J. O. (2020) Ruderal Plants Providing Bees Diversity on Rural Properties. Sociobiology, v. 67, p. 388-400.&#xA;Rocha-Filho, L. C., Montagnana, P. C., Boscolo, D., Garófalo, C.</description>
-    </item>
-    <item>
       <title>Innocent Drinks</title>
       <link>http://localhost:4321/project/2024-06-27-innocent-drinks/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/2024-06-27-innocent-drinks/</guid>
       <description>Innocent Drinks O projeto O projeto foi fruto da parceria entre pesquisadores da Universidade Estadual Paulista (UNESP), Universidade Federal de São Carlos (UFSCar) e empresa britânica Innocent Drinks, sendo a última a financiadora do projeto através do Farmer Innovation Fund. Farmer Innovation Fund é um fundo destinado a apoiar os agricultores parceiros da empresa a migrarem para práticas agrícolas regenerativas que melhorem e protejam a saúde do solo, os recursos hídricos, a biodiversidade e o clima.</description>
+    </item>
+    <item>
+      <title>Publicações</title>
+      <link>http://localhost:4321/publications/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/</guid>
+      <description>Artigos Patrício, G. B., Grisolia, B. B. Desuo, I. C, Montagnana, P. C., Brocanelli, F. G., Gomig, E. G., Campos, M. J. O. (2012). The importance of bees for eggplant cultivations (Hymenoptera: Apidae, Andrenidae, Halictidae).Sociobiology, v. 59, p. 1037-1052.&#xA;Montagnana, P. C., Campos, M. J. O. (2020) Ruderal Plants Providing Bees Diversity on Rural Properties. Sociobiology, v. 67, p. 388-400.&#xA;Rocha-Filho, L. C., Montagnana, P. C., Boscolo, D., Garófalo, C.</description>
     </item>
     <item>
       <title>Um pouco mais sobre o projeto Euglossini PELD</title>
