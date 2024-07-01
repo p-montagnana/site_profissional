@@ -8,7 +8,7 @@ date: 2023-07-25
 layout: custom-standard
 
 category:
-- publicações
+- publications
 
 tags:
 - book

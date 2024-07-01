@@ -14,4 +14,4 @@ blogdown::new_post(title = "index",
 
 # salvar um arquivo .md em html
 library(rmarkdown)
-rmarkdown::render("C:/Users/paula/OneDrive/GitHub/site_profissional/content/publication/index.md", output_format = "html_document")
+rmarkdown::render("C:/Users/paula/OneDrive/GitHub/site_profissional/content/publications/index.md", output_format = "html_document")
