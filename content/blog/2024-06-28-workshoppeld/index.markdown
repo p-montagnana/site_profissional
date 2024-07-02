@@ -48,6 +48,15 @@ Entre os dias 26 e 28 de junho de 2023 foi realizado no campus da UNESP-Rio Clar
 
 Esse [vídeo](https://www.youtube.com/watch?v=I7gcT_7la-o) mostra o Prof. Milton na abertura do workshop, contando a história da idealização desse projeto de pesquisa de longa duração, no qual meu doutorado foi a pedra fundadora. Vale a pena conferir.
 
+<div class="figure" style="text-align: center">
+
+<img src="img/image.png" alt="Fonte: Instagem peld_ccm." width="100%" />
+<p class="caption">
+Figure 1: Minha palestra no Workshop sobre meu projeto de pós-doutorado com as abelhas Euglossini. Fonte: Instagem peld_ccm.
+</p>
+
+</div>
+
 
 #### Links interessantes
 
