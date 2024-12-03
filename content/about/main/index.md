@@ -10,7 +10,7 @@ intro: |
   
   Meu percurso acadêmico culminou com um Doutorado em Ciências pela USP de Ribeirão Preto. Ao longo da minha carreira científica, explorei diversas abordagens para análise de dados, desde análises espaciais até estatística paramétrica e não paramétrica, modelos mistos e Modelos de Distribuição de Espécies.
   
-  Atualmente estou como Cientista de Dados na [Seleção Natural](https://www.selecaonatural.net/) trabalhando no desenvolvimento de uma plataforma que simplificará a produção de planos de ação para implementar e cumprir compromissos de biodiversidade, auxiliando agricultores a proteger fragmentos de vegetação nativa dentro de suas propriedades. Esse projeto faz parte do [Programa Soja Sustentavel do Cerrado](https://www.pwc.com.br/pt/consultoria/agtech-innovation/programas/soja-sustentavel.html).
+  Atualmente estou como Cientista de Dados na [Bayer](https://www.bayer.com.br/pt/), mas também ocupei a posição de Especialista em Dados na [Proforest](https://www.proforest.net/pt/) e a posição de Cientista de Dados na [Seleção Natural](https://www.selecaonatural.net/).
   
   Possuo uma profunda intimidade com a Linguagem R para manipulação e visualização de dados, utilizando-a como uma ferramenta poderosa para extrair significado dos conjuntos de dados mais complexos. Além disso, minha especialização em Ecologia de Paisagens me proporciona uma sólida experiência em análise de dados espaciais e softwares de SIG, como o QGIS.
   
