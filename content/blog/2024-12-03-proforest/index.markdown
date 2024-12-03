@@ -5,7 +5,7 @@ author: Paula Montagnana
 date: '2024-12-03'
 slug: 2024-12-03-proforest
 layout: single-sidebar
-categories: 
+categories:
   - Blog
 tags:
   - dados
